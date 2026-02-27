@@ -1,0 +1,30 @@
+{
+    "author": "Chris Eilander",
+    "dependencies": {},
+    "keywords": [],
+    "name": "learn-again",
+    "pebble": {
+        "displayName": "Learn Again",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery",
+            "gabbro",
+            "flint"
+        ],
+        "uuid": "2e03d545-906a-4867-b1c1-5f4563578b7e",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
