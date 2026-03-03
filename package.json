@@ -1,6 +1,8 @@
 {
     "author": "Chris Eilander",
-    "dependencies": {},
+    "dependencies": {
+        "@rebble/clay": "^1.0.6"
+    },
     "keywords": [],
     "name": "learn-again",
     "pebble": {
